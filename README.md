@@ -75,3 +75,4 @@ This project enhanced my skills in data visualization, trend analysis, clusterin
 **Ransom Robins Fernando**  
 MSc Business Analytics – University of Birmingham  
 📧 ransom301998@gmail.com
+https://www.linkedin.com/in/ransom-robins-fernando-1353a8209
